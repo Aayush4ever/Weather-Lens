@@ -25,7 +25,7 @@ A professional, production-grade Weather Analytics Dashboard built with React, R
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Aayush4ever/Weather-Lens.git
 cd weatherlens
 npm install
 ```
