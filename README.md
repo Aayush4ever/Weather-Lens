@@ -36,7 +36,7 @@ npm install
 ```
 
 Edit `.env`:
-```
+
 VITE_OPENWEATHER_API_KEY=your_actual_api_key_here
 VITE_OPENWEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
 VITE_OPENWEATHER_GEO_URL=https://api.openweathermap.org/geo/1.0
