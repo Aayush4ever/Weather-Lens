@@ -74,6 +74,7 @@ src/
 ├── api/               # OpenWeatherMap API calls + parsers
 ├── app/               # Redux store
 ├── components/
+|   ├── auth/          # Login , auth
 │   ├── layout/        # Navbar, Sidebar, SettingsPanel
 │   ├── dashboard/     # CityCard, CardsGrid
 │   ├── charts/        # All Recharts visualizations
